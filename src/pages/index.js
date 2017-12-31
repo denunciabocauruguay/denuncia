@@ -42,7 +42,8 @@ class Index extends React.Component {
       &body=
       Departamento: ${this.state.departamento}%0A%0A
       Dirección: ${this.state.direccion}%0A%0A
-      Denuncia: ${this.state.denuncia}`;
+      Denuncia: ${this.state.denuncia}%0A%0A%0A%0A
+      https://denunciabocauruguay.github.io/denuncia/`;
 
     window.location.href = link;
   };
