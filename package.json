@@ -2,6 +2,7 @@
   "name": "denunciabocauruguay",
   "version": "1.0.0",
   "private": true,
+  "homepage": "http://denunciabocauruguay.github.io/denuncia",
   "dependencies": {
     "jss": "latest",
     "jss-preset-default": "latest",
