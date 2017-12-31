@@ -37,7 +37,7 @@ class Index extends React.Component {
   };
 
   handleClick = () => {
-    var link = `mailto:denunciabocauruguay@gmail.com?&subject=
+    var link = `mailto:denuncias@minterior.gub.uy?&subject=
       ${escape("Denuncia boca de drogas Uruguay")}
       &body=
       Departamento: ${this.state.departamento}%0A%0A
